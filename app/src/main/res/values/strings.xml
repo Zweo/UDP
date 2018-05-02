@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TCPUDP</string>
+    <string name="edit_hint">输入发送字符串</string>
+    <string name="hint_ip">IP address</string>
+</resources>
